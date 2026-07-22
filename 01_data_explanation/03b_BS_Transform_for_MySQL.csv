@@ -1,0 +1,391 @@
+Metric,Fiscal_Year,Amount
+Cash and cash equivalents,FY '09,7021
+Cash and cash equivalents,FY '10,8517
+Cash and cash equivalents,FY '11,12803
+Cash and cash equivalents,FY '12,8442
+Cash and cash equivalents,FY '13,10414
+Cash and cash equivalents,FY '14,8958
+Cash and cash equivalents,FY '15,7309
+Cash and cash equivalents,FY '16,8555
+Cash and cash equivalents,FY '17,6006
+Cash and cash equivalents,FY '18,8926
+Short-term investments,FY '09,2130
+Short-term investments,FY '10,2682
+Short-term investments,FY '11,1088
+Short-term investments,FY '12,5017
+Short-term investments,FY '13,6707
+Short-term investments,FY '14,9052
+Short-term investments,FY '15,8322
+Short-term investments,FY '16,9595
+Short-term investments,FY '17,9352
+Short-term investments,FY '18,2025
+Total cash(Cash and cash equivalents + Short-term investment),FY '09,9151
+Total cash(Cash and cash equivalents + Short-term investment),FY '10,11199
+Total cash(Cash and cash equivalents + Short-term investment),FY '11,13891
+Total cash(Cash and cash equivalents + Short-term investment),FY '12,13459
+Total cash(Cash and cash equivalents + Short-term investment),FY '13,17121
+Total cash(Cash and cash equivalents + Short-term investment),FY '14,18010
+Total cash(Cash and cash equivalents + Short-term investment),FY '15,15631
+Total cash(Cash and cash equivalents + Short-term investment),FY '16,18150
+Total cash(Cash and cash equivalents + Short-term investment),FY '17,15358
+Total cash(Cash and cash equivalents + Short-term investment),FY '18,10951
+Marketable securities,FY '09,62
+Marketable securities,FY '10,138
+Marketable securities,FY '11,144
+Marketable securities,FY '12,3092
+Marketable securities,FY '13,3147
+Marketable securities,FY '14,3665
+Marketable securities,FY '15,4269
+Marketable securities,FY '16,4051
+Marketable securities,FY '17,5317
+Marketable securities,FY '18,5013
+"Trade accounts receivable, less allowances",FY '09,3758
+"Trade accounts receivable, less allowances",FY '10,4430
+"Trade accounts receivable, less allowances",FY '11,4920
+"Trade accounts receivable, less allowances",FY '12,4759
+"Trade accounts receivable, less allowances",FY '13,4873
+"Trade accounts receivable, less allowances",FY '14,4466
+"Trade accounts receivable, less allowances",FY '15,3941
+"Trade accounts receivable, less allowances",FY '16,3856
+"Trade accounts receivable, less allowances",FY '17,3667
+"Trade accounts receivable, less allowances",FY '18,3396
+Inventories,FY '09,2354
+Inventories,FY '10,2650
+Inventories,FY '11,3092
+Inventories,FY '12,3264
+Inventories,FY '13,3277
+Inventories,FY '14,3100
+Inventories,FY '15,2902
+Inventories,FY '16,2675
+Inventories,FY '17,2655
+Inventories,FY '18,2766
+Prepaid expenses and other assets,FY '09,2226
+Prepaid expenses and other assets,FY '10,3162
+Prepaid expenses and other assets,FY '11,3450
+Prepaid expenses and other assets,FY '12,2781
+Prepaid expenses and other assets,FY '13,2886
+Prepaid expenses and other assets,FY '14,3066
+Prepaid expenses and other assets,FY '15,2752
+Prepaid expenses and other assets,FY '16,2481
+Prepaid expenses and other assets,FY '17,2000
+Prepaid expenses and other assets,FY '18,1962
+Assets held for sale_1,FY '09,0
+Assets held for sale_1,FY '10,0
+Assets held for sale_1,FY '11,0
+Assets held for sale_1,FY '12,2973
+Assets held for sale_1,FY '13,0
+Assets held for sale_1,FY '14,679
+Assets held for sale_1,FY '15,3900
+Assets held for sale_1,FY '16,0
+Assets held for sale_1,FY '17,7329
+Assets held for sale_1,FY '18,6546
+Assets held for sale_2,FY '09,0
+Assets held for sale_2,FY '10,0
+Assets held for sale_2,FY '11,0
+Assets held for sale_2,FY '12,0
+Assets held for sale_2,FY '13,0
+Assets held for sale_2,FY '14,0
+Assets held for sale_2,FY '15,0
+Assets held for sale_2,FY '16,2797
+Assets held for sale_2,FY '17,219
+Assets held for sale_2,FY '18,0
+Total current assets,FY '09,17551
+Total current assets,FY '10,21579
+Total current assets,FY '11,25497
+Total current assets,FY '12,30328
+Total current assets,FY '13,31304
+Total current assets,FY '14,32986
+Total current assets,FY '15,33395
+Total current assets,FY '16,34010
+Total current assets,FY '17,36545
+Total current assets,FY '18,30634
+Equity method investments,FY '09,6217
+Equity method investments,FY '10,6954
+Equity method investments,FY '11,7233
+Equity method investments,FY '12,9216
+Equity method investments,FY '13,10393
+Equity method investments,FY '14,9947
+Equity method investments,FY '15,12318
+Equity method investments,FY '16,16260
+Equity method investments,FY '17,20856
+Equity method investments,FY '18,19407
+Other investments,FY '09,538
+Other investments,FY '10,631
+Other investments,FY '11,1141
+Other investments,FY '12,1232
+Other investments,FY '13,1119
+Other investments,FY '14,3678
+Other investments,FY '15,3470
+Other investments,FY '16,989
+Other investments,FY '17,1096
+Other investments,FY '18,867
+Other assets,FY '09,1976
+Other assets,FY '10,2121
+Other assets,FY '11,3495
+Other assets,FY '12,3585
+Other assets,FY '13,4661
+Other assets,FY '14,4407
+Other assets,FY '15,4110
+Other assets,FY '16,4248
+Other assets,FY '17,4230
+Other assets,FY '18,4139
+"Property, plant and equipment - net",FY '09,9561
+"Property, plant and equipment - net",FY '10,14727
+"Property, plant and equipment - net",FY '11,14939
+"Property, plant and equipment - net",FY '12,14476
+"Property, plant and equipment - net",FY '13,14967
+"Property, plant and equipment - net",FY '14,14633
+"Property, plant and equipment - net",FY '15,12571
+"Property, plant and equipment - net",FY '16,10635
+"Property, plant and equipment - net",FY '17,8203
+"Property, plant and equipment - net",FY '18,8232
+Deferred income tax assets,FY '09,0
+Deferred income tax assets,FY '10,0
+Deferred income tax assets,FY '11,0
+Deferred income tax assets,FY '12,0
+Deferred income tax assets,FY '13,0
+Deferred income tax assets,FY '14,0
+Deferred income tax assets,FY '15,0
+Deferred income tax assets,FY '16,0
+Deferred income tax assets,FY '17,330
+Deferred income tax assets,FY '18,2667
+TRADEMARKS WITH INDEFINITE LIVES,FY '09,6183
+TRADEMARKS WITH INDEFINITE LIVES,FY '10,6356
+TRADEMARKS WITH INDEFINITE LIVES,FY '11,6430
+TRADEMARKS WITH INDEFINITE LIVES,FY '12,6527
+TRADEMARKS WITH INDEFINITE LIVES,FY '13,6744
+TRADEMARKS WITH INDEFINITE LIVES,FY '14,6533
+TRADEMARKS WITH INDEFINITE LIVES,FY '15,5989
+TRADEMARKS WITH INDEFINITE LIVES,FY '16,6097
+TRADEMARKS WITH INDEFINITE LIVES,FY '17,6729
+TRADEMARKS WITH INDEFINITE LIVES,FY '18,6682
+BOTTLERS' FRANCHISE RIGHTS WITH INDEFINITE LIVES,FY '09,1953
+BOTTLERS' FRANCHISE RIGHTS WITH INDEFINITE LIVES,FY '10,7511
+BOTTLERS' FRANCHISE RIGHTS WITH INDEFINITE LIVES,FY '11,7770
+BOTTLERS' FRANCHISE RIGHTS WITH INDEFINITE LIVES,FY '12,7405
+BOTTLERS' FRANCHISE RIGHTS WITH INDEFINITE LIVES,FY '13,7415
+BOTTLERS' FRANCHISE RIGHTS WITH INDEFINITE LIVES,FY '14,6689
+BOTTLERS' FRANCHISE RIGHTS WITH INDEFINITE LIVES,FY '15,6000
+BOTTLERS' FRANCHISE RIGHTS WITH INDEFINITE LIVES,FY '16,3676
+BOTTLERS' FRANCHISE RIGHTS WITH INDEFINITE LIVES,FY '17,138
+BOTTLERS' FRANCHISE RIGHTS WITH INDEFINITE LIVES,FY '18,51
+Goodwill,FY '09,4224
+Goodwill,FY '10,11665
+Goodwill,FY '11,12219
+Goodwill,FY '12,12255
+Goodwill,FY '13,12312
+Goodwill,FY '14,12100
+Goodwill,FY '15,11289
+Goodwill,FY '16,10629
+Goodwill,FY '17,9401
+Goodwill,FY '18,10263
+Other intangible assets,FY '09,468
+Other intangible assets,FY '10,1377
+Other intangible assets,FY '11,1250
+Other intangible assets,FY '12,1150
+Other intangible assets,FY '13,1140
+Other intangible assets,FY '14,1050
+Other intangible assets,FY '15,854
+Other intangible assets,FY '16,726
+Other intangible assets,FY '17,368
+Other intangible assets,FY '18,274
+Total assets,FY '09,48671
+Total assets,FY '10,72921
+Total assets,FY '11,79974
+Total assets,FY '12,86174
+Total assets,FY '13,90055
+Total assets,FY '14,92023
+Total assets,FY '15,89996
+Total assets,FY '16,87270
+Total assets,FY '17,87896
+Total assets,FY '18,83216
+Accounts payable and accrued expenses,FY '09,6657
+Accounts payable and accrued expenses,FY '10,8859
+Accounts payable and accrued expenses,FY '11,9009
+Accounts payable and accrued expenses,FY '12,8680
+Accounts payable and accrued expenses,FY '13,9577
+Accounts payable and accrued expenses,FY '14,9234
+Accounts payable and accrued expenses,FY '15,9660
+Accounts payable and accrued expenses,FY '16,9490
+Accounts payable and accrued expenses,FY '17,8748
+Accounts payable and accrued expenses,FY '18,8932
+Loans and notes payable,FY '09,6749
+Loans and notes payable,FY '10,8100
+Loans and notes payable,FY '11,12871
+Loans and notes payable,FY '12,16297
+Loans and notes payable,FY '13,16901
+Loans and notes payable,FY '14,19130
+Loans and notes payable,FY '15,13129
+Loans and notes payable,FY '16,12498
+Loans and notes payable,FY '17,13205
+Loans and notes payable,FY '18,13194
+Current maturities of long-term debt,FY '09,51
+Current maturities of long-term debt,FY '10,1276
+Current maturities of long-term debt,FY '11,2041
+Current maturities of long-term debt,FY '12,1577
+Current maturities of long-term debt,FY '13,1024
+Current maturities of long-term debt,FY '14,3552
+Current maturities of long-term debt,FY '15,2676
+Current maturities of long-term debt,FY '16,3527
+Current maturities of long-term debt,FY '17,3298
+Current maturities of long-term debt,FY '18,4997
+Accrued income taxes,FY '09,264
+Accrued income taxes,FY '10,273
+Accrued income taxes,FY '11,362
+Accrued income taxes,FY '12,471
+Accrued income taxes,FY '13,309
+Accrued income taxes,FY '14,400
+Accrued income taxes,FY '15,331
+Accrued income taxes,FY '16,307
+Accrued income taxes,FY '17,410
+Accrued income taxes,FY '18,378
+Liabilities held for sale,FY '09,0
+Liabilities held for sale,FY '10,0
+Liabilities held for sale,FY '11,0
+Liabilities held for sale,FY '12,796
+Liabilities held for sale,FY '13,0
+Liabilities held for sale,FY '14,58
+Liabilities held for sale,FY '15,1133
+Liabilities held for sale,FY '16,710
+Liabilities held for sale,FY '17,37
+Liabilities held for sale,FY '18,0
+"Liabilities Held for Sale, Discontinued Operations",FY '09,0
+"Liabilities Held for Sale, Discontinued Operations",FY '10,0
+"Liabilities Held for Sale, Discontinued Operations",FY '11,0
+"Liabilities Held for Sale, Discontinued Operations",FY '12,0
+"Liabilities Held for Sale, Discontinued Operations",FY '13,0
+"Liabilities Held for Sale, Discontinued Operations",FY '14,0
+"Liabilities Held for Sale, Discontinued Operations",FY '15,0
+"Liabilities Held for Sale, Discontinued Operations",FY '16,0
+"Liabilities Held for Sale, Discontinued Operations",FY '17,1496
+"Liabilities Held for Sale, Discontinued Operations",FY '18,1722
+Total current liabilities,FY '09,13721
+Total current liabilities,FY '10,18508
+Total current liabilities,FY '11,24283
+Total current liabilities,FY '12,27821
+Total current liabilities,FY '13,27811
+Total current liabilities,FY '14,32374
+Total current liabilities,FY '15,26929
+Total current liabilities,FY '16,26532
+Total current liabilities,FY '17,27194
+Total current liabilities,FY '18,29223
+Long-term debt,FY '09,5059
+Long-term debt,FY '10,14041
+Long-term debt,FY '11,13656
+Long-term debt,FY '12,14736
+Long-term debt,FY '13,19154
+Long-term debt,FY '14,19063
+Long-term debt,FY '15,28311
+Long-term debt,FY '16,29684
+Long-term debt,FY '17,31182
+Long-term debt,FY '18,25364
+Other liabilities,FY '09,2965
+Other liabilities,FY '10,4794
+Other liabilities,FY '11,5420
+Other liabilities,FY '12,5468
+Other liabilities,FY '13,3498
+Other liabilities,FY '14,4389
+Other liabilities,FY '15,4301
+Other liabilities,FY '16,4081
+Other liabilities,FY '17,8021
+Other liabilities,FY '18,7638
+Deferred income taxes,FY '09,1580
+Deferred income taxes,FY '10,4261
+Deferred income taxes,FY '11,4694
+Deferred income taxes,FY '12,4981
+Deferred income taxes,FY '13,6152
+Deferred income taxes,FY '14,5636
+Deferred income taxes,FY '15,4691
+Deferred income taxes,FY '16,3753
+Deferred income taxes,FY '17,2522
+Deferred income taxes,FY '18,1933
+Common stock,FY '09,880
+Common stock,FY '10,880
+Common stock,FY '11,1760
+Common stock,FY '12,1760
+Common stock,FY '13,1760
+Common stock,FY '14,1760
+Common stock,FY '15,1760
+Common stock,FY '16,1760
+Common stock,FY '17,1760
+Common stock,FY '18,1760
+Capital surplus,FY '09,8537
+Capital surplus,FY '10,10057
+Capital surplus,FY '11,10332
+Capital surplus,FY '12,11379
+Capital surplus,FY '13,12276
+Capital surplus,FY '14,13154
+Capital surplus,FY '15,14016
+Capital surplus,FY '16,14993
+Capital surplus,FY '17,15864
+Capital surplus,FY '18,16520
+Reinvested earnings,FY '09,41537
+Reinvested earnings,FY '10,49278
+Reinvested earnings,FY '11,53621
+Reinvested earnings,FY '12,58045
+Reinvested earnings,FY '13,61660
+Reinvested earnings,FY '14,63408
+Reinvested earnings,FY '15,65018
+Reinvested earnings,FY '16,65502
+Reinvested earnings,FY '17,60430
+Reinvested earnings,FY '18,63234
+Accumulated other comprehensive income (loss),FY '09,-757
+Accumulated other comprehensive income (loss),FY '10,-1450
+Accumulated other comprehensive income (loss),FY '11,-2774
+Accumulated other comprehensive income (loss),FY '12,-3385
+Accumulated other comprehensive income (loss),FY '13,-3432
+Accumulated other comprehensive income (loss),FY '14,-5777
+Accumulated other comprehensive income (loss),FY '15,-10174
+Accumulated other comprehensive income (loss),FY '16,-11205
+Accumulated other comprehensive income (loss),FY '17,-10305
+Accumulated other comprehensive income (loss),FY '18,-12814
+"Treasury stock, at cost",FY '09,-25398
+"Treasury stock, at cost",FY '10,-27762
+"Treasury stock, at cost",FY '11,-31304
+"Treasury stock, at cost",FY '12,-35009
+"Treasury stock, at cost",FY '13,-39091
+"Treasury stock, at cost",FY '14,-42225
+"Treasury stock, at cost",FY '15,-45066
+"Treasury stock, at cost",FY '16,-47988
+"Treasury stock, at cost",FY '17,-50677
+"Treasury stock, at cost",FY '18,-51719
+EQUITY ATTRIBUTABLE TO SHAREOWNERS OF THE COCA-COLA COMPANY,FY '09,24799
+EQUITY ATTRIBUTABLE TO SHAREOWNERS OF THE COCA-COLA COMPANY,FY '10,31003
+EQUITY ATTRIBUTABLE TO SHAREOWNERS OF THE COCA-COLA COMPANY,FY '11,31635
+EQUITY ATTRIBUTABLE TO SHAREOWNERS OF THE COCA-COLA COMPANY,FY '12,32790
+EQUITY ATTRIBUTABLE TO SHAREOWNERS OF THE COCA-COLA COMPANY,FY '13,33173
+EQUITY ATTRIBUTABLE TO SHAREOWNERS OF THE COCA-COLA COMPANY,FY '14,30320
+EQUITY ATTRIBUTABLE TO SHAREOWNERS OF THE COCA-COLA COMPANY,FY '15,25554
+EQUITY ATTRIBUTABLE TO SHAREOWNERS OF THE COCA-COLA COMPANY,FY '16,23062
+EQUITY ATTRIBUTABLE TO SHAREOWNERS OF THE COCA-COLA COMPANY,FY '17,17072
+EQUITY ATTRIBUTABLE TO SHAREOWNERS OF THE COCA-COLA COMPANY,FY '18,16981
+Equity attributable to noncontrolling interests,FY '09,547
+Equity attributable to noncontrolling interests,FY '10,314
+Equity attributable to noncontrolling interests,FY '11,286
+Equity attributable to noncontrolling interests,FY '12,378
+Equity attributable to noncontrolling interests,FY '13,267
+Equity attributable to noncontrolling interests,FY '14,241
+Equity attributable to noncontrolling interests,FY '15,210
+Equity attributable to noncontrolling interests,FY '16,158
+Equity attributable to noncontrolling interests,FY '17,1905
+Equity attributable to noncontrolling interests,FY '18,2077
+Total equity,FY '09,25346
+Total equity,FY '10,31317
+Total equity,FY '11,31921
+Total equity,FY '12,33168
+Total equity,FY '13,33440
+Total equity,FY '14,30561
+Total equity,FY '15,25764
+Total equity,FY '16,23220
+Total equity,FY '17,18977
+Total equity,FY '18,19058
+Total liabilities and equity,FY '09,48671
+Total liabilities and equity,FY '10,72921
+Total liabilities and equity,FY '11,79974
+Total liabilities and equity,FY '12,86174
+Total liabilities and equity,FY '13,90055
+Total liabilities and equity,FY '14,92023
+Total liabilities and equity,FY '15,89996
+Total liabilities and equity,FY '16,87270
+Total liabilities and equity,FY '17,87896
+Total liabilities and equity,FY '18,83216
