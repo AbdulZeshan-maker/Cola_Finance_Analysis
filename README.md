@@ -1,6 +1,6 @@
 # Cola Finance Analysis
 
-**Tableau Dashboard:** [Click here to view the tableau dashboard](https://public.tableau.com/views/finance_17847473647620/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Tableau Dashboard: Please maximise the screen for clear view** [Click here to view the tableau dashboard](https://public.tableau.com/views/finance_17847473647620/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Project Overview
 This project demonstrates an end-to-end data analytics pipeline using a raw finance dataset for a cola brand. The workflow encompasses data cleaning and transformation in Excel, advanced querying for reporting in MySQL, and the development of an interactive performance dashboard in Tableau.
