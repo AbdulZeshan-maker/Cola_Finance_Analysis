@@ -7,7 +7,7 @@ This project demonstrates an end-to-end data analytics pipeline using a raw fina
 
 ## Tools Used
 * **Data Cleaning and Transformation:** Microsoft Excel
-* **Database Management:** MySQL (for data loading andquerying)
+* **Database Management:** MySQL (for data loading and querying)
 * **Data Visualization:** Tableau Desktop Public (free)
 
 ## ETL Process
