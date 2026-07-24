@@ -18,7 +18,7 @@ This project demonstrates an end-to-end data analytics pipeline using a raw fina
 
 ## Key Business Insights
 * **insight 1:** The debt-to-equity ratio jumped from 0.20 to 1.59. The company is aggressively borrowing money rather than using its own cash to fund operations    or shareholder payouts. Need to restructure the capital allocation strategy to manage financial risk.
-* **insight 2:** Total revenue declined by 33% over the period, but operating profit margins actually increased to 27.3%. The company is selling less volume but     making more profit per sale.Identify exactly which low-margin product lines or regions caused the revenue drop.
+* **insight 2:** Total revenue declined by 33% over the period, but operating profit margins actually increased to 27.3%. The company is selling less volume but     making more profit per sale. Identify exactly which low-margin product lines or regions caused the revenue drop.
 * **insight 3:** Net income looked terrible in FY '17 (dropping to 3.6%), but this was entirely due to a massive, one-time 82% tax charge. Core business             operations were actually completely healthy that year. So later if i want to predict something ,i will exclude fiscal year 2017.
 * **insight 4:** Even with falling sales, the company is highly efficient at turning its day-to-day operations into actual cash in the bank, requiring very little   money to maintain its equipment. This insight you can draw by seeing the cash flow, the company has good cash flow, it just needs to invest it into good assets.
 
